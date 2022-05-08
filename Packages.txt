@@ -1,0 +1,9 @@
+logstash
+elasticsearch
+kibana
+jupyter notebook
+nltk
+pandas
+pandas_profiling
+scikit-learn
+numpy
