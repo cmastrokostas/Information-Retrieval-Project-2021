@@ -41,6 +41,6 @@ You can check the results directly for each Part in the corresponding notebook f
 
 ## Contributors
 * Charalampos Mastrokostas (chmastrokostas@gmail.com) 
-* Marios Stamatiou (@mariosstm)
+* Marios Stamatiou (mariostamatiou@gmail.com)
 
 ![This is an image](/vector.jpg)
